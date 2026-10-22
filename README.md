@@ -2,7 +2,7 @@
 
 
 
-[![Bank Marketing Dashboard](images/dashboard.png)](https://predictive-banking-marketing-intelligence.streamlit.app/)
+[![Bank Marketing Dashboard](images/dashboard.PNG)](https://predictive-banking-marketing-intelligence.streamlit.app/)
 
 ### 🔗 [Open the Live Streamlit Dashboard](https://predictive-banking-marketing-intelligence.streamlit.app/)
 
