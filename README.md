@@ -1,6 +1,10 @@
-# Predictive-Banking-Marketing-Intelligence
-
 # 🏦 Predictive Banking Marketing Intelligence
+
+
+
+[![Bank Marketing Dashboard](images/dashboard.png)](https://predictive-banking-marketing-intelligence.streamlit.app/)
+
+### 🔗 [Open the Live Streamlit Dashboard](https://predictive-banking-marketing-intelligence.streamlit.app/)
 
 ### Predicting Customer Response to Improve Marketing Resource Allocation
 
@@ -150,6 +154,7 @@ Then launch the Streamlit dashboard:
 ```
 python -m streamlit run dashboard/app.py
 ```
+
 ---
 
 ## 📈 Exploratory Data Analysis
@@ -345,7 +350,7 @@ Feature importance represents **predictive importance and should not be interpre
 
 A Streamlit dashboard translates the machine learning results into a business decision-support tool.
 
-https://predictive-banking-marketing-intelligence.streamlit.app/
+### 🔗 [Open the Live Streamlit Dashboard](https://predictive-banking-marketing-intelligence.streamlit.app/)
 
 Users can:
 
